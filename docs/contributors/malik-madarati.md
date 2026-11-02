@@ -6,7 +6,7 @@
 
 ### Target grade
 
-x
+2,7
 
 ### Personal goals
 
