@@ -15,7 +15,8 @@ Mein Ziel ist es sicher mit Git eigenständig umgehen zu können, dabei noch das
 ### Vertical features
 
 #### Schichten anlegen und erstellen (Unternehmen)
-Schichst erstellen: Titel, Tatätigkeit, Uhrzeit, Datum, Ort, Stundenlohn
+
+Schicht erstellen: Titel, Tatätigkeit, Uhrzeit, Datum, Ort, Stundenlohn
 Eigene Schicht erstellen, absagen, zusagen, bearbeiten
 Validierung mit mindestlohn oder Datum nicht in vergangenheit
 ---
