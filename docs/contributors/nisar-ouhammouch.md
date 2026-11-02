@@ -11,6 +11,9 @@ x
 ### Personal goals
 
 x
+### Vertical features
 
----
+#### XX
+
+XX
 
