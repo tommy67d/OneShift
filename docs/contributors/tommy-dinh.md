@@ -19,5 +19,4 @@ Mein Ziel ist es sicher mit Git eigenständig umgehen zu können, dabei noch das
 Schicht erstellen: Titel, Tatätigkeit, Uhrzeit, Datum, Ort, Stundenlohn
 Eigene Schicht erstellen, absagen, zusagen, bearbeiten
 Validierung mit mindestlohn oder Datum nicht in vergangenheit
----
 
