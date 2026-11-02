@@ -11,6 +11,8 @@ x
 ### Personal goals
 
 x
+### Vertical features
 
+#### Schichten anlegen und erstellen (Unternehmen)
 ---
 

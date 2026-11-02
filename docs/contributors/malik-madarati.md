@@ -18,4 +18,14 @@
 
 
 ---
+### Vertical features
+
+#### Registrierung, Login & Rollen
+-Registrierung als Student oder Unternehmen
+
+-Anmelden und Abmelden mit sicherem Passwort
+
+-Jede Rolle kann nur auf ihre eigenen Bereiche zugreifen
+
+-Profilseite für Studenten (Uni, Studentenstatus, Verfügbarkeit) und Unternehmen (Firmenname, Adresse, Branche)
 
