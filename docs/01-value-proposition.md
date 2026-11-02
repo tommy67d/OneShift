@@ -4,44 +4,53 @@
 
 ## Target Users and Their Problems
 
-A platform serves two distinct user groups, each with their own needs and motivations.
+Eine Plattform bedient zwei unterschiedliche Nutzergruppen, jede mit eigenen Bedürfnissen und Motiven.
 
-### Demand Side: [User Group]
+### Demand Side: Gastronomie- und Eventbetriebe
 
-[Describe (a) who these users are (e.g., as persona) and (b) which problem or unmet need brings them to your platform. Be specific and grounded in reality with both the user and the problem description.]
+Kleine bis mittlere Betriebe wie Cafés, Restaurants, Bars und Eventagenturen in Berlin. Typische Nutzerin ist die Schichtleiterin eines Cafés, die den Dienstplan organisiert.
 
-### Supply Side: [User Group]
+Fällt kurzfristig jemand aus oder steht ein unerwartet großes Event an, fehlt Personal. Ersatz wird bisher über WhatsApp-Gruppen, Aushänge oder persönliche Kontakte gesucht. Das kostet Zeit, ist unzuverlässig, und oft findet sich niemand rechtzeitig.
 
-[Describe who these users are, what they have to offer, and which problem or need motivates them to participate. Again, be specific and grounded in reality.]
+### Supply Side: Studierende
+
+Studierende, die neben dem Studium Geld verdienen wollen, z.B. eine Studentin der HWR Berlin im 3. Semester mit wechselndem Stundenplan. Sie bieten ihre Arbeitszeit für einzelne Schichten an.
+
+Klassische Nebenjobs verlangen feste Arbeitszeiten und eine langfristige Bindung, etwa einen Minijob mit festen Wochenstunden. Das lässt sich schwer mit Vorlesungen, Prüfungsphasen und Semesterferien vereinbaren. Studierende wollen arbeiten, wenn sie Zeit haben, ohne sich festzulegen.
 
 ## Our Platform Solution
 
-[Briefly describe the purpose of your platform. What brings the two user groups together? What is being offered, requested, or exchanged?]
+OneShift ist eine Plattform für eintägige Schichten. Jede Schicht ist ein einzelner, abgeschlossener Einsatz an einem Tag, ohne Folgeverpflichtung. Betriebe stellen offene Schichten ein, Studierende buchen einzelne Schichten. Getauscht wird Arbeitszeit gegen Bezahlung.
 
 ### Solution for the Demand Side
 
-[Explain how your application addresses the demand-side users' problem. Why would they choose to use your platform?]
+Betriebe erstellen eine Schicht für einen bestimmten Tag mit Uhrzeit, Tätigkeit und Stundenlohn. So decken sie gezielt kurzfristige Lücken oder Spitzen ab, z.B. einen Krankheitsausfall oder ein großes Event, ohne jemanden langfristig einstellen zu müssen. Mit einem Inserat erreichen sie viele verfügbare Studierende, statt Leute einzeln anzuschreiben.
 
 ### Solution for the Supply Side
 
-[Explain how your application addresses the supply-side users' problem. Why would they choose to offer their services, products, or resources through your platform?]
+Studierende buchen nur einzelne Tage, an denen sie wirklich Zeit haben. Es gibt keine festen Wochenstunden und keine langfristige Bindung. Diese Woche zwei Schichten, in der Prüfungsphase keine: Die Studierenden bestimmen selbst, wann und wie oft sie arbeiten.
 
 ## Happy Paths
 
-[Describe how your platform connects the two groups and facilitates their interaction: What steps lead from an offer or request to a successful match or exchange?
-
-Illustrate the typical successful interaction with your platform from both user perspectives, from from the app's entry point to a completed task. You might want to show the path as (schematic) screen flows. Ensure your "happy path" (a) is consistent with the Value Proposition, (b) demonstrates how the two user groups interact through the platform, and (c) shows the features as actually implemented in the submitted web app.]
+Ein Betrieb stellt eine offene Schicht ein, eine Studentin fragt sie an, und der Betrieb bestätigt die Studentin. Danach ist die Schicht für beide Seiten gebucht.
 
 ### Demand-Side Happy Path
 
-[Show the demand-side user "happy path".]
+1. Der Betrieb registriert sich und meldet sich an.
+2. Der Betrieb erstellt eine neue Schicht (Datum, Uhrzeit, Tätigkeit, Stundenlohn).
+3. Der Betrieb sieht eingegangene Anfragen in seiner Übersicht.
+4. Der Betrieb bestätigt eine Studentin für die Schicht.
+5. Die Schicht ist als „besetzt“ markiert.
 
 ### Supply-Side Happy Path
 
-[Show the supply-side user "happy path".]
+1. Die Studentin registriert sich und meldet sich an.
+2. Die Studentin sieht die Liste offener Schichten und filtert nach Datum.
+3. Die Studentin öffnet eine Schicht und sendet eine Anfrage.
+4. Die Studentin sieht in ihrer Übersicht den Status „angefragt“, später „bestätigt“.
 
 ---
 
 ## Initial Target Scope (as per Assignment)
 
-[Include your visual scoping of the web app (e.g., UI screens scribbles), as elaborated for your Assignment at start of the project.]
+Siehe [Target Scope](target-scope.md).L

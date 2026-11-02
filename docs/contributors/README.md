@@ -2,8 +2,10 @@
 
 # Contributors
 
-[List all team members like so:
 
--  [Jane Dane](jane-dane.md)
 
-]
+-  [Hosam Khalili](hosam-khalili.md)
+-  [Tommy Dinh](tommy-dinh.md)
+-  [Malik Madarati](malik-madarati.md)
+-  [Nisar Ouhammouch](nisar-ouhammouch.md)
+
