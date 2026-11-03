@@ -15,6 +15,11 @@ Ich möchte lernen, wie man eine vollständige Webanwendung mit Flask entwickelt
 ---
 ### Vertical features
 
-#### XX
+### Schicht-Feed
 
-XX
+Liste aller offenen Schichten mit Titel, Betrieb, Tätigkeit, Datum, Uhrzeit, Bezirk, Stundenlohn
+Filter nach Datum, Bezirk, Tätigkeit und Mindest-Stundenlohn
+Schicht-Detailseite: alle Infos zur Schicht und zum Betrieb, Button „Schicht anfragen“
+Schicht buchen (Buchungsanfrage senden) und eigene Anfrage stornieren
+„Meine Schichten“: Übersicht nach Status angefragt / bestätigt / abgeschlossen
+Validierung: nur offene Schichten in der Zukunft anfragbar, keine doppelte Anfrage, keine zeitlich überschneidenden Schichten, Stornieren nur bis 24 h vor Schichtbeginn

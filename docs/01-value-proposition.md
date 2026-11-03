@@ -53,4 +53,4 @@ Ein Betrieb stellt eine offene Schicht ein, eine Studentin fragt sie an, und der
 
 ## Initial Target Scope (as per Assignment)
 
-Siehe [Target Scope](target-scope.md).L
+Siehe [Target Scope](target-scope.md). -> Folgt noch 
