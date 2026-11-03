@@ -10,8 +10,8 @@
 2,0
 
 ### Personal goals
-  - Ich möchte verstehen, wie Authentifizierung und Sessions in Flask sicher umgesetzt werden.
-  - Ich möchte lernen, echte Nutzerinterviews zu führen und daraus Anforderungen abzuleiten.
+Ich möchte verstehen, wie Authentifizierung und Sessions in Flask sicher umgesetzt werden.
+Ich möchte lernen, echte Nutzerinterviews zu führen und daraus Anforderungen abzuleiten.
 
 
 

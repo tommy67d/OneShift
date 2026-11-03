@@ -5,7 +5,7 @@
 ## Meta-Goals
 
 ### Target grade
-1.3 - 1.7
+1.7
 
 
 ### Personal goals
