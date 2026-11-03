@@ -2,16 +2,86 @@
 
 # Target Scope
 
-Skizzen der wichtigsten Screens von OneShift.
+Skizzen der wichtigsten Screens von OneShift, gegliedert nach unseren vier Bereichen.
 
-## Login / Registrierung
+---
 
-![Login](x)
+## A: Registrierung, Login & Rollen
 
-## Betrieb: Schicht erstellen
+### Login & Registrierung
 
-![Schicht erstellen](x)
+Anmelden oder neues Konto erstellen. Bei der Registrierung wird die Rolle gewählt: Studierende/r oder Unternehmen.
 
-## Studierende: Schichten finden und buchen
+![Login und Registrierung](<assets/A1 Login & Registrierung.png>)
 
-![Schichten finden](x)
+### Profil Studierende
+
+Hochschule, Matrikel-Status und Verfügbarkeit nach Wochentagen.
+
+![Profil Studierende](<assets/A2 Profil Studierende.png>)
+
+### Profil Unternehmen
+
+Firmenname, Adresse, Bezirk und Branche.
+
+![Profil Unternehmen](<assets/A3 Profil Unternehmen.png>)
+
+---
+
+## B: Schichten anlegen & verwalten (Unternehmen)
+
+### Meine Schichten
+
+Übersicht der eigenen Schichten nach Status (offen, besetzt, vergangen) mit Bearbeiten, Absagen und Anfragen.
+
+![Meine Schichten Unternehmen](<assets/B1 Meine Schichten (Unternehmen).png>)
+
+### Schicht erstellen / bearbeiten
+
+Formular mit Titel, Tätigkeit, Datum, Uhrzeit, Ort, Stundenlohn und Anzahl benötigter Personen. Eingaben werden geprüft, z. B. Mindestlohn.
+
+![Schicht erstellen](<assets/B2 Schicht erstellen bearbeiten.png>)
+
+---
+
+## C: Schichten finden & buchen (Studierende)
+
+### Schicht-Feed
+
+Liste offener Schichten mit Filtern nach Datum, Bezirk, Tätigkeit und Lohn.
+
+![Schicht-Feed](<assets/C1 Schicht-Feed mit Filtern.png>)
+
+### Schicht-Detailseite
+
+Alle Infos zur Schicht und zum Betrieb, voraussichtlicher Verdienst und Button „Schicht anfragen“.
+
+![Schicht-Detailseite](<assets/C2 Schicht-Detailseite.png>)
+
+### Meine Schichten
+
+Eigene Schichten nach Status: angefragt, bestätigt, abgeschlossen. Anfragen können storniert werden.
+
+![Meine Schichten Studierende](<assets/C3 Meine Schichten (Studierende).png>)
+
+---
+
+## D: Buchung bestätigen, Stunden & Bewertung
+
+### Buchungsanfragen bestätigen
+
+Das Unternehmen sieht alle Anfragen zu einer Schicht und bestätigt oder lehnt sie ab.
+
+![Buchungsanfragen bestätigen](<assets/D1 Buchungsanfragen bestätigen.png>)
+
+### Stunden bestätigen & bewerten
+
+Nach der Schicht bestätigt das Unternehmen die geleisteten Stunden und bewertet die Aushilfe mit 1–5 Sternen.
+
+![Stunden bestätigen und bewerten](<assets/D2 Stunden bestätigen & bewerten.png>)
+
+### Verdienstübersicht
+
+Studierende sehen ihren Gesamtverdienst, die geleisteten Stunden und alle abgeschlossenen Schichten.
+
+![Verdienstübersicht](<assets/D3 Verdienstübersicht.png>)
