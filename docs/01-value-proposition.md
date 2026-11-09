@@ -21,7 +21,7 @@ Für internationale Studierende kommt eine Sprachbarriere hinzu. Viele Jobangebo
 
 ## Our Platform Solution
 
-OneShift ist eine Plattform für eintägige Schichten. Jede Schicht ist ein einzelner, abgeschlossener Einsatz an einem Tag, ohne Folgeverpflichtung. Betriebe stellen offene Schichten ein, Studierende buchen einzelne Schichten. Getauscht wird Arbeitszeit gegen Bezahlung.
+OneShift ist eine Plattform für eintägige Schichten und richtet sich ausschließlich an eingeschriebene Studierende. Jede Schicht ist ein einzelner, abgeschlossener Einsatz an einem Tag, ohne Folgeverpflichtung. Betriebe stellen offene Schichten ein, Studierende buchen einzelne Schichten. Getauscht wird Arbeitszeit gegen Bezahlung.
 OneShift ist auf Deutsch und Englisch nutzbar, und jede Schicht zeigt, welche Sprache vor Ort benötigt wird.
 
 ### Solution for the Demand Side
