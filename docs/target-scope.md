@@ -4,7 +4,7 @@
 
 Skizzen der wichtigsten Screens von OneShift, gegliedert nach unseren vier Bereichen.
 
-Alle Screens gibt es auf Deutsch und Englisch. Die Sprache wird über den Umschalter **DE | EN** in der Kopfzeile gewählt und im Profil gespeichert. Viele Studierende und Mitarbeitende in der Berliner Gastronomie sprechen kein oder wenig Deutsch. Ohne englische Oberfläche würde ein großer Teil der Zielgruppe ausgeschlossen.
+Alle Screens gibt es auf Deutsch und Englisch. Die Sprache wird über den Umschalter DE | EN in der Kopfzeile gewählt und im Profil gespeichert. Viele Studierende und Mitarbeitende in der Berliner Gastronomie sprechen kein oder wenig Deutsch. Ohne englische Oberfläche würde ein großer Teil der Zielgruppe ausgeschlossen.
 
 ---
 
