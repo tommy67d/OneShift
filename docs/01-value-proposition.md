@@ -17,10 +17,12 @@ Fällt kurzfristig jemand aus oder steht ein unerwartet großes Event an, fehlt 
 Studierende, die neben dem Studium Geld verdienen wollen, z.B. eine Studentin der HWR Berlin im 3. Semester mit wechselndem Stundenplan. Sie bieten ihre Arbeitszeit für einzelne Schichten an.
 
 Klassische Nebenjobs verlangen feste Arbeitszeiten und eine langfristige Bindung, etwa einen Minijob mit festen Wochenstunden. Das lässt sich schwer mit Vorlesungen, Prüfungsphasen und Semesterferien vereinbaren. Studierende wollen arbeiten, wenn sie Zeit haben, ohne sich festzulegen.
+Für internationale Studierende kommt eine Sprachbarriere hinzu. Viele Jobangebote und Plattformen gibt es nur auf Deutsch, obwohl viele Tätigkeiten in der Gastronomie auch auf Englisch möglich sind.
 
 ## Our Platform Solution
 
 OneShift ist eine Plattform für eintägige Schichten. Jede Schicht ist ein einzelner, abgeschlossener Einsatz an einem Tag, ohne Folgeverpflichtung. Betriebe stellen offene Schichten ein, Studierende buchen einzelne Schichten. Getauscht wird Arbeitszeit gegen Bezahlung.
+OneShift ist auf Deutsch und Englisch nutzbar, und jede Schicht zeigt, welche Sprache vor Ort benötigt wird.
 
 ### Solution for the Demand Side
 
