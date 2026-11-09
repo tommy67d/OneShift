@@ -16,7 +16,9 @@ Mein Ziel ist es sicher mit Git eigenständig umgehen zu können, dabei noch das
 
 #### Schichten anlegen und erstellen (Unternehmen)
 
-Schicht erstellen: Titel, Tatätigkeit, Uhrzeit, Datum, Ort, Stundenlohn
-Eigene Schicht erstellen, absagen, zusagen, bearbeiten
-Validierung mit mindestlohn oder Datum nicht in vergangenheit
+Schicht erstellen mit minimalem Aufwand: Tätigkeit, Datum, Uhrzeit, Anzahl Personen, benötigte Sprache
+Schicht-Vorlagen speichern, bearbeiten, löschen und mit einem Klick ausschreiben
+Vergangene Schicht „erneut ausschreiben“
+Eigene Schichten bearbeiten und absagen
+Validierung: Mindestlohn, kein Datum in der Vergangenheit
 
