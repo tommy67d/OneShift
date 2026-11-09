@@ -34,6 +34,7 @@ Ziel: eine Schicht in unter einer Minute ausschreiben.
 ### Solution for the Supply Side
 
 Studierende buchen nur einzelne Tage, an denen sie wirklich Zeit haben. Es gibt keine festen Wochenstunden und keine langfristige Bindung. Diese Woche zwei Schichten, in der Prüfungsphase keine: Die Studierenden bestimmen selbst, wann und wie oft sie arbeiten.
+Für eingeschriebene Studierende gelten besondere Regeln (Werkstudentenprivileg): Wer im Semester höchstens 20 Stunden pro Woche arbeitet, ist von Kranken-, Pflege- und Arbeitslosenversicherung befreit. Für Betriebe sind studentische Aushilfen dadurch günstiger und einfacher abzurechnen. Deshalb fragt OneShift den Studierendenstatus mit Ablaufdatum ab, aber nicht die Hochschule.
 
 ## Happy Paths
 
