@@ -42,6 +42,8 @@ Bei vergangenen Schichten gibt es den Button „Erneut ausschreiben“: Die Schi
 ### Schicht erstellen / bearbeiten
 
 Formular mit Titel, Tätigkeit, Datum, Uhrzeit, Ort, Stundenlohn und Anzahl benötigter Personen. Eingaben werden geprüft, z. B. Mindestlohn.
+Häufige Schichten können als Vorlage gespeichert werden.
+Danach Vorlage wählen, Datum neu wählen, direkt veröffentlichen
 
 ![Schicht erstellen](<assets/B2 Schicht erstellen bearbeiten.png>)
 
