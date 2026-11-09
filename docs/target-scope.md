@@ -35,6 +35,7 @@ Firmenname, Adresse, Bezirk und Branche.
 ### Meine Schichten
 
 Übersicht der eigenen Schichten nach Status (offen, besetzt, vergangen) mit Bearbeiten, Absagen und Anfragen.
+Bei vergangenen Schichten gibt es den Button „Erneut ausschreiben“: Die Schicht wird mit allen Angaben kopiert, nur das Datum muss neu gewählt werden.
 
 ![Meine Schichten Unternehmen](<assets/B1 Meine Schichten (Unternehmen).png>)
 
