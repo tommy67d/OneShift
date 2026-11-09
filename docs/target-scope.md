@@ -53,7 +53,8 @@ Danach Vorlage wählen, Datum neu wählen, direkt veröffentlichen
 
 ### Schicht-Feed
 
-Liste offener Schichten mit Filtern nach Datum, Bezirk, Tätigkeit und Lohn.
+Liste offener Schichten mit Filtern nach Datum, Bezirk, Tätigkeit, Lohn und benötigter Sprache.
+Internationale Studierende sehen sofort, welche Schichten auch ohne Deutschkenntnisse möglich sind.
 
 ![Schicht-Feed](<assets/C1 Schicht-Feed mit Filtern.png>)
 
