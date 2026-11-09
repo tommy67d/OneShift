@@ -18,9 +18,8 @@ Ich möchte lernen, echte Nutzerinterviews zu führen und daraus Anforderungen a
 ### Vertical features
 
 #### Registrierung, Login & Rollen
--Registrierung als Student oder Unternehmen
--Anmelden und Abmelden mit sicherem Passwort
--Jede Rolle kann nur auf ihre eigenen Bereiche zugreifen
--Profilseite für Studenten (Uni, Studentenstatus, Verfügbarkeit) und Unternehmen (Firmenname, Adresse, Branche)
-
-
+Registrierung als Student oder Unternehmen
+Anmelden und Abmelden mit sicherem Passwort
+Jede Rolle kann nur auf ihre eigenen Bereiche zugreifen
+Profilseite für Studierende (Studierendenstatus mit Ablaufdatum, Sprachkenntnisse) und Unternehmen (Firmenname, Adresse, Branche, Standartwerte für Ort und Stundenlohn)  
+Sprachumschalter Deutsch/ Englisch, gespeicherte Sprache im Profil
