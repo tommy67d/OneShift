@@ -18,7 +18,7 @@ Anmelden oder neues Konto erstellen. Bei der Registrierung wird die Rolle gewäh
 
 ### Profil Studierende
 
-Hochschule, Matrikel-Status und Verfügbarkeit nach Wochentagen.
+Name, Kontaktdaten, Studierendenstatus („immatrikuliert bis“) und Sprachkenntnisse
 
 ![Profil Studierende](<assets/A2 Profil Studierende.png>)
 
