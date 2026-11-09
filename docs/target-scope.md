@@ -18,16 +18,16 @@ Anmelden oder neues Konto erstellen. Bei der Registrierung wird die Rolle gewäh
 
 ### Profil Studierende
 
-Name, Kontaktdaten, Studierendenstatus („immatrikuliert bis“) und Sprachkenntnisse
-Keine Verfügbarkeit nach Wochentagen: Studierende sollen arbeiten, wenn sie spontan Zeit haben (siehe Value Proposition).
-Verfügbarkeit zeigt sich durch das Anfragen einer Schicht.
-Keine Hochschule:Für den Betrieb zählt nur, dass jemand eingeschrieben ist (wichtig für die Sozialversicherungsregeln bei Studierendenjobs), nicht wo.
+Name, Kontaktdaten, Studierendenstatus („Immatrikuliert bis“) und Sprachkenntnisse.
+
+- **Keine Verfügbarkeit nach Wochentagen:** Studierende sollen arbeiten, wenn sie spontan Zeit haben (siehe Value Proposition). Verfügbarkeit zeigt sich durch das Anfragen einer Schicht.
+- **Keine Hochschule:** Für den Betrieb zählt nur, dass jemand eingeschrieben ist (wichtig für die Sozialversicherungsregeln bei Studierendenjobs), nicht wo.
 
 ![Profil Studierende](<assets/A2 Profil Studierende.png>)
 
 ### Profil Unternehmen
 
-Firmenname, Adresse, Bezirk und Branche.
+Firmenname, Adresse, Bezirk, Branche und Ansprechperson. Zusätzlich ein Standard-Ort und ein Standard-Stundenlohn, die beim Erstellen einer Schicht automatisch vorausgefüllt werden.
 
 ![Profil Unternehmen](<assets/A3 Profil Unternehmen.png>)
 
@@ -38,17 +38,24 @@ Firmenname, Adresse, Bezirk und Branche.
 ### Meine Schichten
 
 Übersicht der eigenen Schichten nach Status (offen, besetzt, vergangen) mit Bearbeiten, Absagen und Anfragen.
+
 Bei vergangenen Schichten gibt es den Button „Erneut ausschreiben“: Die Schicht wird mit allen Angaben kopiert, nur das Datum muss neu gewählt werden.
 
 ![Meine Schichten Unternehmen](<assets/B1 Meine Schichten (Unternehmen).png>)
 
 ### Schicht erstellen / bearbeiten
 
-Formular mit Titel, Tätigkeit, Datum, Uhrzeit, Ort, Stundenlohn und Anzahl benötigter Personen. Eingaben werden geprüft, z. B. Mindestlohn.
-Häufige Schichten können als Vorlage gespeichert werden.
-Danach Vorlage wählen, Datum neu wählen, direkt veröffentlichen
+Formular mit Tätigkeit, Datum, Uhrzeit, Ort, Stundenlohn, Anzahl benötigter Personen und benötigter Sprache. Eingaben werden geprüft, z. B. Mindestlohn.
+
+Oben kann eine Vorlage ausgewählt werden, die das Formular vorausfüllt. Eine neue Schicht kann über „Als Vorlage speichern“ selbst zur Vorlage werden.
 
 ![Schicht erstellen](<assets/B2 Schicht erstellen bearbeiten.png>)
+
+### Schicht-Vorlagen
+
+Liste aller gespeicherten Vorlagen. Über „Ausschreiben“ wird aus einer Vorlage direkt eine neue Schicht: Vorlage wählen, Datum festlegen, veröffentlichen.
+
+![Schicht-Vorlagen](<assets/B3 Schicht-Vorlagen.png>)
 
 ---
 
@@ -57,6 +64,7 @@ Danach Vorlage wählen, Datum neu wählen, direkt veröffentlichen
 ### Schicht-Feed
 
 Liste offener Schichten mit Filtern nach Datum, Bezirk, Tätigkeit, Lohn und benötigter Sprache.
+
 Internationale Studierende sehen sofort, welche Schichten auch ohne Deutschkenntnisse möglich sind.
 
 ![Schicht-Feed](<assets/C1 Schicht-Feed mit Filtern.png>)
@@ -91,6 +99,6 @@ Nach der Schicht bestätigt das Unternehmen die geleisteten Stunden und bewertet
 
 ### Verdienstübersicht
 
-Studierende sehen ihren Gesamtverdienst, die geleisteten Stunden und alle abgeschlossenen Schichten.
+Studierende sehen ihren Verdienst getrennt nach Lohn, optionalem Trinkgeld und Gesamtbetrag, dazu die geleisteten Stunden und alle abgeschlossenen Schichten.
 
 ![Verdienstübersicht](<assets/D3 Verdienstübersicht.png>)
