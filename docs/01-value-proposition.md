@@ -27,6 +27,9 @@ OneShift ist auf Deutsch und Englisch nutzbar, und jede Schicht zeigt, welche Sp
 ### Solution for the Demand Side
 
 Betriebe erstellen eine Schicht für einen bestimmten Tag mit Uhrzeit, Tätigkeit und Stundenlohn. So decken sie gezielt kurzfristige Lücken oder Spitzen ab, z.B. einen Krankheitsausfall oder ein großes Event, ohne jemanden langfristig einstellen zu müssen. Mit einem Inserat erreichen sie viele verfügbare Studierende, statt Leute einzeln anzuschreiben.
+Mit einem Inserat erreichen sie viele verfügbare Studierende, statt Leute einzeln anzuschreiben.
+Der Aufwand für den Betrieb muss minimal sein, denn wer kurzfristig Personal sucht, hat keine Zeit für lange Formulare. Wiederkehrende Schichten werden deshalb als Vorlage gespeichert, vergangene Schichten können mit einem Klick erneut ausgeschrieben werden.
+Ziel: eine Schicht in unter einer Minute ausschreiben.
 
 ### Solution for the Supply Side
 
