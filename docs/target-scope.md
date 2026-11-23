@@ -20,8 +20,6 @@ Anmelden oder neues Konto erstellen. Bei der Registrierung wird die Rolle gewäh
 
 Name, Kontaktdaten, Studierendenstatus („Immatrikuliert bis“) und Sprachkenntnisse.
 
-- **Keine Verfügbarkeit nach Wochentagen:** Studierende sollen arbeiten, wenn sie spontan Zeit haben (siehe Value Proposition). Verfügbarkeit zeigt sich durch das Anfragen einer Schicht.
-- **Keine Hochschule:** Für den Betrieb zählt nur, dass jemand eingeschrieben ist (wichtig für die Sozialversicherungsregeln bei Studierendenjobs), nicht wo.
 
 ![Profil Studierende](<assets/A2 Profil Studierende.png>)
 
