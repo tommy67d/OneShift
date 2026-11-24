@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}OneShift{% endblock %}</title>
+  {{ bootstrap.load_css() }}
+</head>
+<body class="bg-light">
+  <nav class="navbar navbar-expand bg-white border-bottom">
+    <div class="container">
+      <a class="navbar-brand fw-semibold" href="{{ url_for('index') }}">OneShift</a>
+      <ul class="navbar-nav ms-auto">
+        <li class="nav-item"><a class="nav-link" href="#">Schichten finden</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Anmelden</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="container py-4">
+    {% with messages = get_flashed_messages(with_categories=true) %}
+      {% for category, message in messages %}
+        <div class="alert alert-{{ category }}">{{ message }}</div>
+      {% endfor %}
+    {% endwith %}
+
+    {% block content %}{% endblock %}
+  </main>
+</body>
+</html>
